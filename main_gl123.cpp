@@ -2,5 +2,5 @@
 int main ()
 {
 	std::cout << "asdfadf";
-	return 0;
+	return -6;
 }
